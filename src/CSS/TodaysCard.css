@@ -1,0 +1,30 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 2rem;
+}
+
+.time_el {
+    margin: 1rem;
+}
+
+.loc_data {
+    text-align: left;
+    /* margin: 2rem; */
+    margin-right: 5rem;
+}
+
+.loc_data img {
+    float: left;
+    height: 50px;
+    width: 60px;
+}
+
+.loc_data h1 {
+    margin-top: 2rem;
+}
+
+.loc_data1 {
+    margin-top: 3rem;
+}
